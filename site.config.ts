@@ -10,14 +10,14 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'ccholl station',
-  domain: 'https://ccholl.notion.site/ccholl-station-28adc4934ce842518063913cca207726',
+  domain: 'https://www.notion.so/ccholl/ccholl-station-28adc4934ce842518063913cca207726',
   author: 'Chloe',
 
   // open graph metadata (optional)
   description: 'growing up!',
 
   // social usernames (optional)
-  email: '956966226@qq.com',
+  qq: '956966226',
   github: 'ccholl',
   linkedin: 'Ming.Jia',
 
