@@ -2,19 +2,19 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '28adc4934ce842518063913cca207726',
+  rootNotionPageId: 'a32e62c941264cd982145a535b841e22',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'ccholl station',
-  domain: 'https://www.notion.so/ccholl/ccholl-station-28adc4934ce842518063913cca207726',
+  name: 'recorvery',
+  domain: 'https://ccholl.notion.site/a32e62c941264cd982145a535b841e22',
   author: 'Chloe',
 
   // open graph metadata (optional)
-  description: 'growing up!',
+  description: 'digitally clinical',
 
   // social usernames (optional)
   qq: '956966226',
